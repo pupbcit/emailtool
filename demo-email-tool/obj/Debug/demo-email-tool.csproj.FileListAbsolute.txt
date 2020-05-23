@@ -1,0 +1,7 @@
+C:\Users\A17909.000\source\repos\demo-email-tool\demo-email-tool\bin\Debug\demo-email-tool.exe.config
+C:\Users\A17909.000\source\repos\demo-email-tool\demo-email-tool\bin\Debug\demo-email-tool.exe
+C:\Users\A17909.000\source\repos\demo-email-tool\demo-email-tool\bin\Debug\demo-email-tool.pdb
+C:\Users\A17909.000\source\repos\demo-email-tool\demo-email-tool\obj\Debug\demo-email-tool.csprojAssemblyReference.cache
+C:\Users\A17909.000\source\repos\demo-email-tool\demo-email-tool\obj\Debug\demo-email-tool.csproj.CoreCompileInputs.cache
+C:\Users\A17909.000\source\repos\demo-email-tool\demo-email-tool\obj\Debug\demo-email-tool.exe
+C:\Users\A17909.000\source\repos\demo-email-tool\demo-email-tool\obj\Debug\demo-email-tool.pdb
